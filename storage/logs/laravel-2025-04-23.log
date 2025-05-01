@@ -1,0 +1,2 @@
+[2025-04-23 02:56:15] live.EMERGENCY: File:/home/u260304876/domains/wwebpos.com/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.phpLine:327Message:The surname must not be greater than 10 characters.  
+[2025-04-23 02:56:19] live.EMERGENCY: File:/home/u260304876/domains/wwebpos.com/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.phpLine:327Message:The surname must not be greater than 10 characters.  

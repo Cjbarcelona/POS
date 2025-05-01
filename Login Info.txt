@@ -1,0 +1,9 @@
+just .env file 	 1. database name ----- Your database name 
+		 2.  database user name ----- Your database user name 
+		 3. database user password ----- Your database user password
+
+
+then inport ta .sql file in your server database 
+and go to your website and login 
+Username :webwonder
+password :123456

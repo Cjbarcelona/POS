@@ -1,0 +1,5 @@
+[2025-04-16 06:34:04] live.EMERGENCY: File:/home/u260304876/domains/wwebpos.com/public_html/vendor/laravel/framework/src/Illuminate/Support/helpers.phpLine:327Message:The surname must not be greater than 10 characters.  
+[2025-04-16 23:38:10] live.EMERGENCY: File:/home/u260304876/domains/wwebpos.com/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.phpLine:690Message:A two digit month could not be found
+Not enough data available to satisfy format  
+[2025-04-16 23:38:21] live.EMERGENCY: File:/home/u260304876/domains/wwebpos.com/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.phpLine:690Message:A two digit month could not be found
+Not enough data available to satisfy format  
